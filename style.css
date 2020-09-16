@@ -37,6 +37,10 @@ border: solid 20px scarlet;
 }
 
 /* Pseudo Class Selectors */
+a:link {
+color:
+}
+
 a:visited {
 color: #FF0000;
 }
