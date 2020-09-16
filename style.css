@@ -35,3 +35,16 @@ padding-top: 60px;
 padding-bottom: 60px;
 border: solid 20px scarlet;
 }
+
+/* Pseudo Class Selectors */
+a:visited {
+color: #FF0000;
+}
+
+a:hover {
+color:
+}
+
+a:active {
+color:
+}
