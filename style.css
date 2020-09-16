@@ -5,15 +5,12 @@ padding: 0;
 
 head {
 text-align: center;
-background-color: #ecc19c;
 padding-top: 30px;
 padding-bottom: 30px;
 }
 
-.padding-border {
-padding-top: 60px;
-padding-bottom: 60px;
-border: solid 20px lightgrey;
+header {
+background-color: #ecc19c;
 }
 
 main {
@@ -32,4 +29,8 @@ background-color: #000000;
 color: white;
 }
 
-
+.padding-border {
+padding-top: 60px;
+padding-bottom: 60px;
+border: solid 20px lightgrey;
+}
