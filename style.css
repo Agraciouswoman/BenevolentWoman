@@ -1,1 +1,51 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+head {
+text-align: center;
+background-color: #;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.main-header {
+background-color: #ecc19c;
+color: white;
+}
+
+.padding-border {
+padding-top: 60px;
+padding-bottom: 60px;
+border: solid 20px lightgrey;
+}
+
+main {
+text-align: left;
+background-color: #1e847f;
+color: white;
+}
+
+p {
+font-size: 20px;
+color: white;
+}
+ 
+footer {
+background-color: #000000;
+color: white;
+}
+
+a:link {
+color: 
+}
+
+a:visited {
+color:
+}
+
+a:hover {
+
+}
 
