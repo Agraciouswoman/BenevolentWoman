@@ -32,7 +32,8 @@ max-height: 250%;
 }
 p {
 font-size: 20px;
-color: #ff6e40;
+width: 75%;
+ color: #ff6e40;
 }
  
 footer {
