@@ -46,6 +46,13 @@ padding-bottom: 60px;
 border: solid 20px scarlet;
 }
 
+header, 
+body, 
+footer {
+margin-left: 10%
+margin-right: 10%
+}
+
 /* Pseudo Class Selectors */
 a:link {
 color:
