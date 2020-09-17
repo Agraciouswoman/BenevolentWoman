@@ -1,6 +1,6 @@
 /* This is CSS */
 * {
-margin: 10%;
+margin: 0%;
 padding: 0;
 }
 
@@ -32,7 +32,6 @@ max-height: 250%;
 }
 p {
 font-size: 20px;
-width: 75%;
  color: #ff6e40;
 }
  
