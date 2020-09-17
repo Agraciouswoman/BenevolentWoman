@@ -20,6 +20,11 @@ background-color: #1e847f;
 color: white;
 }
 
+#image-of-self {
+max-width: 100%;
+max-height: 100%;
+display: block;
+}
 p {
 font-size: 20px;
 color: #ff6e40;
