@@ -43,15 +43,6 @@ background-color: #000000;
 color: white;
 }
 
-head, 
-body, 
-footer {
-margin-top: 5%;
-margin-right: 5%;
-margin-bottom: 5%;
-margin-left: 5%;
-}
-
 /* Class Selectors */
 .padding-border {
 padding-top: 60px;
