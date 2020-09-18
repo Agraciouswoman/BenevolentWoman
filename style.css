@@ -47,7 +47,9 @@ color: white;
 /* Class Selectors */
 .padding-border {
 padding-top: 60px;
-padding-bottom: 60px;
+padding-right: 30px;
+ padding-bottom: 60px;
+ padding-left: 30px;
 }
 
 /* Pseudo Class Selectors */
