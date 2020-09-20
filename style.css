@@ -34,7 +34,7 @@ main {
 text-align: left;
 font-family: 'Righteous', cursive;
  background-color: #1e847f;
-color: white;
+color: #000000;
 }
 
 .image-of-self {
@@ -48,10 +48,6 @@ font-family: 'Righteous', cursive;
  color: #000000;
 }
  
-h2 {
-color: #FFD700;
-}
-
 footer {
 font-family: 'Righteous', cursive;
  background-color: #000000;
