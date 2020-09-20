@@ -1,12 +1,12 @@
 /* This is CSS */
+<style>
+<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
+</style>
+
 * {
 margin: 0;
 padding: 0;
 }
-
-<style>
-<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
-</style>
 
 #main-heading {
 text-align: center;
