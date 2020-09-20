@@ -4,9 +4,14 @@ margin: 0;
 padding: 0;
 }
 
+<style>
+<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"> 
+</style>
+
 #main-heading {
 text-align: center;
-background-color: #000000;
+font-family: 'Righteous', cursive;
+ background-color: #000000;
 color: #ff6e40; 
 padding-top: 60px;
 padding-bottom: 60px;
@@ -14,18 +19,21 @@ padding-bottom: 60px;
 
 head {
 text-align: center;
-padding-top: 60px;
+font-family: 'Righteous', cursive;
+ padding-top: 60px;
  padding-bottom: 60px;
 
 }
 
 header {
-background-color: #ecc19c;
+font-family: 'Righteous', cursive;
+ background-color: #ecc19c;
 }
 
 main {
 text-align: left;
-background-color: #1e847f;
+font-family: 'Righteous', cursive;
+ background-color: #1e847f;
 color: white;
 }
 
@@ -35,12 +43,14 @@ max-height: 100%;
 }
 
 p {
-font-size: 20px;
+font-family: 'Righteous', cursive;
+ font-size: 20px;
  color: #ff6e40;
 }
  
 footer {
-background-color: #000000;
+font-family: 'Righteous', cursive;
+ background-color: #000000;
 color: white;
 }
 
