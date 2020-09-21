@@ -44,6 +44,8 @@ max-height: auto;
 
 p {
 font-family: 'Righteous', cursive;
+ text-indent: 50px;
+ text-align: justify;
  font-size: 20px;
  color: #000000;
 }
