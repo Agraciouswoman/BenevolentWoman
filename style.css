@@ -30,7 +30,7 @@ font-weight: bold;
 header {
 font-family: 'Righteous', cursive;
  font-weight: bold;
- background-color: #ffd700;
+ background-color: rgba(255, 215, 0, .5);
 }
 
 main {
