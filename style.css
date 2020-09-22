@@ -20,7 +20,7 @@ padding-bottom: 60px;
 
 head {
 text-align: center;
-font-family: cursive; righteous;
+rgb(30, 132, 127);font-family: cursive; righteous;
 font-weight: bold;
  padding-top: 60px;
  padding-bottom: 60px;
@@ -66,7 +66,7 @@ padding-right: 30px;
 
 /* Pseudo Class Selectors */
 a:link {
-color:
+color: rgb(30, 132, 127);
 }
 
 a:visited {
@@ -74,9 +74,9 @@ color: #FF0000;
 }
 
 a:hover {
-color:
+color: #87dd3f;
 }
 
 a:active {
-color:
+color: #e39ff6;
 }
