@@ -10,7 +10,7 @@ padding: 0;
 
 #main-heading {
 text-align: center;
-font-family: cursive righteous;
+font-family: cursive; righteous;
  font-weight: bold;
  background-color: #000000;
 color: #ff6e40; 
@@ -44,7 +44,6 @@ color: #000000;
 .image-of-self {
 max-width: 100%;
 max-height: auto;
-padding: 150px 100px 150px 100px;
 }
 
 p {
@@ -52,7 +51,7 @@ font-family: cursive; righteous;
  font-weight: bold;
  text-align: justify;
  font-size: 20px;
- margin: 0, 10, 0, 10;
+ padding: 0 10 0 10;
  color: #000000;
 }
  
