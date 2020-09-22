@@ -10,10 +10,10 @@ padding: 0;
 
 #main-heading {
 text-align: center;
+text-color: rgba(255, 215, 0, .5);
 font-family: cursive; righteous;
  font-weight: bold;
  background-color: #000000;
-color: rgb(255, 215, 0); 
 padding-top: 60px;
 padding-bottom: 60px;
 }
