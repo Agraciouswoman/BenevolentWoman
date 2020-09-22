@@ -10,7 +10,7 @@ padding: 0;
 
 #main-heading {
 text-align: center;
-text-color: rgba(255, 215, 0, .5);
+text-color: rgba(30, 132, 127, .25);
 font-family: cursive; righteous;
  font-weight: bold;
  background-color: #000000;
@@ -29,7 +29,7 @@ font-weight: bold;
 header {
 font-family: cursive; righteous;
  font-weight: bold;
- background-color: rgba(255, 215, 0, .5);
+ background-color: rgba(30, 132, 127, .25);
 }
 
 main {
