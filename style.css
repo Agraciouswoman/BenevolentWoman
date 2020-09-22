@@ -13,7 +13,7 @@ text-align: center;
 font-family: cursive; righteous;
  font-weight: bold;
  background-color: #000000;
-color: #ff6e40; 
+color: rgba(255, 215, 0, .5); 
 padding-top: 60px;
 padding-bottom: 60px;
 }
