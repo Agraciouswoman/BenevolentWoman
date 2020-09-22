@@ -10,7 +10,7 @@ padding: 0;
 
 #main-heading {
 text-align: center;
-font-family: cursive;
+font-family: cursive righteous;
  font-weight: bold;
  background-color: #000000;
 color: #ff6e40; 
@@ -20,7 +20,7 @@ padding-bottom: 60px;
 
 head {
 text-align: center;
-font-family: cursive;
+font-family: cursive; righteous;
 font-weight: bold;
  padding-top: 60px;
  padding-bottom: 60px;
@@ -28,14 +28,14 @@ font-weight: bold;
 }
 
 header {
-font-family: cursive;
+font-family: cursive; righteous;
  font-weight: bold;
  background-color: rgba(255, 215, 0, .5);
 }
 
 main {
 text-align: left;
-font-family: cursive;
+font-family: cursive; righteous;
 font-weight: bold;
  background-color: #1e847f;
 color: #000000;
@@ -48,7 +48,7 @@ padding: 150px 100px 150px 100px;
 }
 
 p {
-font-family: cursive;
+font-family: cursive; righteous;
  font-weight: bold;
  text-align: justify;
  font-size: 20px;
@@ -57,7 +57,7 @@ font-family: cursive;
 }
  
 footer {
-font-family: cursive;
+font-family: cursive; righteous;
  font-weight: bold;
  background-color: #000000;
 color: #FFFFFF;
