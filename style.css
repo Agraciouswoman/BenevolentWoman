@@ -49,6 +49,10 @@ font-family: cursive; righteous;
  color: #000000;
 }
  
+.image-self {
+height: 100%;
+}
+
 footer {
 font-family: cursive; righteous;
  font-weight: bold;
