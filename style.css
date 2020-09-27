@@ -48,7 +48,11 @@ font-family: cursive; righteous;
  padding: 0px 5px 0px 5px;
  color: #000000;
 }
- 
+
+.logo {
+margin: auto;
+}
+
 .image-self {
 max-width: 1871px;
 max-height: 2806px;
