@@ -45,7 +45,8 @@ font-family: cursive; righteous;
  font-weight: bold;
  text-align: justify;
  font-size: 20px;
- padding: 10px;
+ padding: 5px;
+ border: 5px;
  color: #000000;
 }
 
