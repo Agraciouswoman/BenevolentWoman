@@ -69,6 +69,7 @@ margin: auto;
 .image-self {
 max-width: 1871px;
 max-height: 2806px;
+background-size: cover;
 box-sizing: border-box;
 }
 
