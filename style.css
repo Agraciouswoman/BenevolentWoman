@@ -50,7 +50,7 @@ font-family: cursive; righteous;
 }
 
 .logo {
-margin: auto;
+box-shadow: 20px 20px 15px 10px rgba( 0,0,0, .5)
 }
 
 .lightbulb {
