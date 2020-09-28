@@ -51,6 +51,7 @@ font-family: cursive; righteous;
 
 .logo {
 margin: auto;
+box-shadow: 20px 20px 15px rgba(30, 132, 127, .25);
 }
 
 .lightbulb {
