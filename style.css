@@ -11,6 +11,7 @@ padding: 0;
 #main-heading {
 text-align: center;
 text-color: rgba(30, 132, 127, .25);
+box-shadow: 10px 10px 10px 10px rgba(0,0,0, .75)
 font-family: cursive; righteous;
  font-weight: bold;
  background-color: rgba(0, 0, 0, .5);
