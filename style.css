@@ -30,14 +30,14 @@ font-weight: bold;
 header {
 font-family: cursive, righteous;
  font-weight: bold;
- background-color: rgb(30, 132, 127,);
+ background-color: rgb(30, 132, 127);
 }
 
 main {
 text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
- background-color: rgb(30, 132, 127,);
+ background-color: rgb(30, 132, 127);
 color: #000000;
 }
 
@@ -51,7 +51,7 @@ font-family: cursive, righteous;
 
 .logo {
 box-shadow: -10px -10px 10px 10px rgba( 0,0,0, .5), inset 0 0 50px 5px firebrick;
-border-radius: 50%;
+border-radius: 25%;
 }
 
 .lightbulb {
