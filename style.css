@@ -14,7 +14,7 @@ text-color: rgba(30, 132, 127, .25);
 text-shadow: 20px 20px 10px 10px rgba(0,0,0, .75)
 font-family: cursive, righteous;
  font-weight: bold;
- background-color: rgba(0, 0, 0, .75);
+ background-color: rgb(0, 0, 0);
 padding-top: 60px;
 padding-bottom: 60px;
 }
@@ -51,7 +51,7 @@ font-family: cursive, righteous;
 
 .logo {
 box-shadow: -10px -10px 10px 10px rgba( 0,0,0, .5), inset 0 0 50px 5px firebrick;
-border-radius: 25%;
+border-radius: 10%;
 }
 
 .lightbulb {
@@ -80,7 +80,7 @@ border-radius: 10%;
 footer {
 font-family: cursive; righteous;
  font-weight: bold;
- background-color: rgba(0, 0, 0, .75);
+ background-color: rgb(0, 0, 0);
 color: rgb(30, 132, 127);
 }
 
