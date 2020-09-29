@@ -11,7 +11,6 @@ padding: 0;
 #main-heading {
 text-align: center;
 text-color: rgba(30, 132, 127, .25);
-text-shadow: 20px 20px 10px 10px rgba(0,0,0, .75)
 font-family: cursive, righteous;
  font-weight: bold;
  background-color: rgb(0, 0, 0);
@@ -50,8 +49,7 @@ font-family: cursive, righteous;
 }
 
 .logo {
-box-shadow: -10px -10px 10px 10px rgba( 0,0,0, .5), inset 0 0 50px 5px rgb(30, 132, 127);
-border-radius:0%;
+background-image: radial-gradient( circle at top, #000, #847fe6, rgba(30, 132,127, 0.25));
 }
 
 .lightbulb {
