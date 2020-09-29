@@ -46,7 +46,7 @@ font-family: cursive, righteous;
  font-weight: bold;
  text-align: justify;
  font-size: 20px;
- color: rgba(30, 132, 127);
+ color: rgb(30, 132, 127);
 }
 
 .logo {
@@ -76,7 +76,7 @@ footer {
 font-family: cursive; righteous;
  font-weight: bold;
  background-color: rgba(30, 132, 127, .25);
-color: rgba(30, 132, 127);
+color: rgb(30, 132, 127);
 }
 
 /* Class Selectors */
