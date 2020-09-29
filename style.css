@@ -14,7 +14,7 @@ text-color: rgba(30, 132, 127, .25);
 box-shadow: 10px 10px 10px 10px rgba(0,0,0, .75)
 font-family: cursive; righteous;
  font-weight: bold;
- background-color: rgba(0, 0, 0, .5);
+ background-color: rgba(0, 0, 0, .25);
 padding-top: 60px;
 padding-bottom: 60px;
 }
@@ -46,7 +46,6 @@ font-family: cursive; righteous;
  font-weight: bold;
  text-align: justify;
  font-size: 20px;
- padding: 5px;
  color: #000000;
 }
 
@@ -76,7 +75,7 @@ box-sizing: border-box;
 footer {
 font-family: cursive; righteous;
  font-weight: bold;
- background-color: #000000;
+ background-color: rgba(30, 132, 127, .25);
 color: #;
 }
 
