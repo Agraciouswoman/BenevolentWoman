@@ -14,7 +14,7 @@ text-color: rgba(30, 132, 127, .25);
 text-shadow: 20px 20px 10px 10px rgba(0,0,0, .75)
 font-family: cursive, righteous;
  font-weight: bold;
- background-color: rgba(0, 0, 0, .50);
+ background-color: rgba(0, 0, 0, .75);
 padding-top: 60px;
 padding-bottom: 60px;
 }
@@ -80,7 +80,7 @@ border-radius: 10%;
 footer {
 font-family: cursive; righteous;
  font-weight: bold;
- background-color: rgba(0, 0, 0, .50);
+ background-color: rgba(0, 0, 0, .75);
 color: rgb(30, 132, 127);
 }
 
