@@ -36,7 +36,7 @@ main {
 text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
- background-color: rgb(30, 132, 127);
+background: radial-gradient( circle at top, #000, #847fe6, rgba(30, 132,127, 0.25); 
 color: #000000;
 }
 
