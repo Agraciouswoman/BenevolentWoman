@@ -29,7 +29,7 @@ font-weight: bold;
 header {
 font-family: cursive, righteous;
  font-weight: bold;
-background: radial-gradient(circle at top, #000, #847fe6, rgba(30, 132,127, 0.25);
+background: linear-gradient(bottom to top, #000, #847fe6, rgba(30, 132, 127, 0.25);
  }
  
 main {
@@ -37,7 +37,7 @@ text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
 text-color: #000;
-background: radial-gradient(circle at top, #000, #847fe6, rgba(30, 132,127, 0.25); 
+background: linear-gradient(top to bottom, #000, #847fe6, rgba(30, 132, 127, 0.25); 
 }
 
 p {
