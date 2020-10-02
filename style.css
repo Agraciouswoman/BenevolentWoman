@@ -8,10 +8,6 @@ margin: 0;
 padding: 0;
 }
 
-#grad {
-background: linear-gradient(bottom to top, #000, #847fe6, rgba(30, 132, 127, 0.25);
-}
-
 #main-heading {
 text-align: center;
 text-color: rgba(30, 132, 127, .25);
