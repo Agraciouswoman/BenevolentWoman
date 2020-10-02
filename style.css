@@ -29,7 +29,7 @@ font-weight: bold;
 header {
 font-family: cursive, righteous;
  font-weight: bold;
- background: #ffa949, firebrick;
+ background: linear-gradient (#ffa949, firebrick);
  }
  
 main {
