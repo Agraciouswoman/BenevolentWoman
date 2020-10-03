@@ -29,9 +29,12 @@ font-weight: bold;
 header {
 font-family: cursive, righteous;
  font-weight: bold;
- background: linear-gradient (#ffa949, firebrick);
  }
  
+.header grad {
+ background: linear-gradient (#ffa949, firebrick);
+}
+
 main {
 text-align: left;
 font-family: cursive, righteous;
