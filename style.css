@@ -28,8 +28,9 @@ font-weight: bold;
 
 header {
 font-family: cursive, righteous;
- font-weight: bold;
- }
+font-weight: bold;
+text-color: rgba(30, 132, 127, .25);
+}
  
 .header-grad {
  background: linear-gradient (#ffa949, firebrick);
