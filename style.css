@@ -24,7 +24,7 @@ font-family: cursive, righteous;
 font-weight: bold;
  padding-top: 60px;
  padding-bottom: 60px;
- background: #FFFFFF, rgb(255, 255, 255), hsv(187.2, 0, 100);
+ background-color: #FFFFFF, rgb(255, 255, 255), hsv(187.2, 0, 100);
 }
 
 header {
