@@ -50,25 +50,28 @@ font-family: cursive, righteous;
 }
 
 .logo {
-
+background-image: url('')
 }
 
 .lightbulb {
 margin: auto;
 border-radius: 10%;
-background-position: center;
+background-image: url('')
+ background-position: center;
 }
 
 .library {
 margin: auto;
 border-radius: 10%;
-background-position: center;
+background-image: url('')
+ background-position: center;
 }
 
 .maldives {
 margin: auto;
 border-radius: 10%;
-background-position: center;
+background-image: url('')
+ background-position: center;
 }
 
 .image-self {
@@ -76,6 +79,7 @@ max-width: 100%;
 max-height: 100%;
 background-size: cover;
 border-radius: 10%;
+background-image: url('')
 background-position: center;
 }
 
