@@ -56,23 +56,27 @@ font-family: cursive, righteous;
 .lightbulb {
 margin: auto;
 border-radius: 10%;
+background-position: center;
 }
 
 .library {
 margin: auto;
 border-radius: 10%;
+background-position: center;
 }
 
 .maldives {
 margin: auto;
 border-radius: 10%;
+background-position: center;
 }
 
 .image-self {
-max-width: 3000px;
-max-height: 3000px;
+max-width: 100%;
+max-height: 100%;
 background-size: cover;
 border-radius: 10%;
+background-position: center;
 }
 
 footer {
