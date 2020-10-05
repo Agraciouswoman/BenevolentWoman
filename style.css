@@ -39,14 +39,9 @@ text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
 text-color: #000;
- background-color: #FFFFFF;
-                  hsl(0, 0%, 100%);
-                  hsv(125.20001220703125, 0%, 100%);
-                  hwb(125.20001220703125, 100%, 0%);
-                  cmyk(0%, 0%, 0%, 0%);
- }
-
-p {
+background-color: rgba(124, 252, 0, 0.5);
+  
+ p {
 font-family: cursive, righteous;
  font-weight: bold;
  text-align: justify;
