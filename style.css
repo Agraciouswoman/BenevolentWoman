@@ -39,12 +39,13 @@ text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
 text-color: #000;
-background-color: #FFFFFF;
+/*
+ background-color: #FFFFFF;
                   hsl(0, 0%, 100%);
                   hsv(125.20001220703125, 0%, 100%);
                   hwb(125.20001220703125, 100%, 0%);
                   cmyk(0%, 0%, 0%, 0%);
-          
+   */       
 
 p {
 font-family: cursive, righteous;
@@ -77,7 +78,6 @@ border-radius: 10%;
 max-width: 3000px;
 max-height: 3000px;
 background-size: cover;
-box-sizing: border-box;
 border-radius: 10%;
 }
 
