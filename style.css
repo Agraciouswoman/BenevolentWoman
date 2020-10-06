@@ -83,6 +83,14 @@ background-image: url('')
 background-position: center;
 }
 
+/* Floated Columns----------*/
+.lightbulb,
+.library,
+.maldives,
+ .image-self {
+ width: 46.5%;
+ }
+ 
 footer {
 font-family: cursive; righteous;
  font-weight: bold;
