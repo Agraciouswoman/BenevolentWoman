@@ -57,21 +57,18 @@ background-image: url('')
 margin: auto;
 border-radius: 10%;
 background-image: url('')
- background-position: center;
 }
 
 .library {
 margin: auto;
 border-radius: 10%;
 background-image: url('')
- background-position: center;
-}
+ }
 
 .maldives {
 margin: auto;
 border-radius: 10%;
 background-image: url('')
- background-position: center;
 }
 
 .image-self {
@@ -80,7 +77,6 @@ max-height: 100%;
 background-size: cover;
 border-radius: 10%;
 background-image: url('')
-background-position: center;
 }
 
 /* Floated Columns----------*/
