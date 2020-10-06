@@ -25,7 +25,7 @@ font-family: cursive, righteous;
 font-weight: bold;
  padding-top: 60px;
  padding-bottom: 60px;
- background-color: 
+ background-color: rgba(255, 0, 0, .5);
 }
 
 header {
@@ -91,7 +91,12 @@ background-position: center;
  width: 46.5%;
  }
  
-footer {
+.library,
+ .image-self {
+ float: right;
+ }
+ 
+ footer {
 font-family: cursive; righteous;
  font-weight: bold;
  text-color: rgb(30, 132, 127);
