@@ -21,9 +21,7 @@ head {
 text-align: center;
 font-family: cursive, righteous;
 font-weight: bold;
- padding-top: 60px;
- padding-bottom: 60px;
- background-color: rgba(255, 0, 0, .5);
+background-color: rgba(255, 0, 0, .5);
 }
 
 header {
