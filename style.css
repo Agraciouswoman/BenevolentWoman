@@ -81,12 +81,7 @@ background-image: url('')
  .image-self {
  width: 46.5%;
  }
- 
-.library,
- .image-self {
- float: right;
- }
- 
+  
  footer {
 font-family: cursive; righteous;
  font-weight: bold;
