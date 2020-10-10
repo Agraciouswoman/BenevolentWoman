@@ -87,6 +87,11 @@ background-image: url('<a href="https://lh3.googleusercontent.com/QedrO3BDNaQcFa
  float: right;
  }
  
+ .lightbulb,
+ .maldives {
+ float: left;
+ }
+ 
  footer {
 font-family: cursive; righteous;
  font-weight: bold;
