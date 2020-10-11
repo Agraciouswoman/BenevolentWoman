@@ -13,7 +13,7 @@ box-sizing: border-box;
 text-align: center;
 text-color: rgba(30, 132, 127, .25);
 font-family: cursive, righteous;
- font-weight: bold;
+text-shadow: 5px 10px 0 rgba(124, 252, 0, 0.5;
 }
 
 head {
