@@ -15,10 +15,6 @@ text-color: rgba(30, 132, 127, .25);
 font-family: cursive, righteous;
 }
 
-h1 {
-text-shadow: 5px 10px 0 rgba(124, 252, 0, 0.5;
-}
-
 head {
 text-align: center;
 font-family: cursive, righteous;
@@ -29,6 +25,7 @@ header {
 font-family: cursive, righteous;
 font-weight: bold;
 text-color: rgba(30, 132, 127, .25);
+text-shadow: 5px 10px 0 rgba(124, 252, 0, 0.5;
 }
  
 main {
