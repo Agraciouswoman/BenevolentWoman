@@ -33,8 +33,9 @@ font-family: cursive, righteous;
 font-weight: bold;
 text-color: #000;
 background-color: rgba(124, 252, 0, 0.5);
-  
- p {
+}  
+ 
+p {
 font-family: cursive, righteous;
  font-weight: bold;
  text-align: justify;
