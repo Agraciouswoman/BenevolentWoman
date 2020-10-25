@@ -52,7 +52,6 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
-border-radius: 10%;
 background-image: url('')
 }
 
@@ -61,7 +60,6 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
-border-radius: 10%;
 background-image: url('')
  }
 
@@ -70,7 +68,6 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
-border-radius: 10%;
 background-image: url('')
 }
 
@@ -82,7 +79,6 @@ margin-left: auto;
 margin-right: auto;
 width: 50%;
 background-size: cover;
-border-radius: 10%;
 background-image: url('<a href="https://lh3.googleusercontent.com/QedrO3BDNaQcFa12GvmDXd_RgqCYVNYWvmvAtXC7krlkA2pBxu3hSkiSZZq0ny6vx84FxPHGB5tckttVlnd_RHUKXUWc7whuDuk2BKbI1EESnzwS5O91dwCb6rcfBIVRYUgxCMV4lQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/QedrO3BDNaQcFa12GvmDXd_RgqCYVNYWvmvAtXC7krlkA2pBxu3hSkiSZZq0ny6vx84FxPHGB5tckttVlnd_RHUKXUWc7whuDuk2BKbI1EESnzwS5O91dwCb6rcfBIVRYUgxCMV4lQ=w600-h315-p-k" /> </a>background-color: rgba(255, 0, 0, .5);
 ')
 }
