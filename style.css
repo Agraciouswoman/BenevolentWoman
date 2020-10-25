@@ -43,6 +43,10 @@ font-family: cursive, righteous;
  color: #000000;
 }
 
+h2 {
+text-align: center;
+}
+
 .logo {
 background-image: url('')
 border-radius: 50%;
