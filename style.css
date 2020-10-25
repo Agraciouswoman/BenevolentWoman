@@ -51,19 +51,25 @@ background-image: url('')
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%
+width: 50%;
 border-radius: 10%;
 background-image: url('')
 }
 
 .library {
-margin: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 border-radius: 10%;
 background-image: url('')
  }
 
 .maldives {
-margin: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 border-radius: 10%;
 background-image: url('')
 }
@@ -71,6 +77,10 @@ background-image: url('')
 .image-self {
 max-width: 100%;
 max-height: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 background-size: cover;
 border-radius: 10%;
 background-image: url('<a href="https://lh3.googleusercontent.com/QedrO3BDNaQcFa12GvmDXd_RgqCYVNYWvmvAtXC7krlkA2pBxu3hSkiSZZq0ny6vx84FxPHGB5tckttVlnd_RHUKXUWc7whuDuk2BKbI1EESnzwS5O91dwCb6rcfBIVRYUgxCMV4lQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/QedrO3BDNaQcFa12GvmDXd_RgqCYVNYWvmvAtXC7krlkA2pBxu3hSkiSZZq0ny6vx84FxPHGB5tckttVlnd_RHUKXUWc7whuDuk2BKbI1EESnzwS5O91dwCb6rcfBIVRYUgxCMV4lQ=w600-h315-p-k" /> </a>background-color: rgba(255, 0, 0, .5);
@@ -85,17 +95,7 @@ background-image: url('<a href="https://lh3.googleusercontent.com/QedrO3BDNaQcFa
  width: 46.5%;
  }
   
- .library,
- .image-self {
- float: right;
- }
- 
- .lightbulb,
- .maldives {
- float: left;
- }
- 
- footer {
+footer {
 font-family: cursive; righteous;
  font-weight: bold;
  text-color: rgb(30, 132, 127);
