@@ -48,7 +48,10 @@ background-image: url('')
 }
 
 .lightbulb {
-margin: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
 border-radius: 10%;
 background-image: url('')
 }
