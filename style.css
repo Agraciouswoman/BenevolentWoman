@@ -45,6 +45,7 @@ font-family: cursive, righteous;
 
 .logo {
 background-image: url('')
+border-radius: 50%;
 }
 
 .lightbulb {
