@@ -92,15 +92,7 @@ background-image: url('<a href="https://lh3.googleusercontent.com/QedrO3BDNaQcFa
 ')
 }
 
-
-/* Floated Columns----------*/
-.lightbulb,
-.library,
-.maldives,
- .image-self {
- width: 46.5%;
- }
-  
+ 
 footer {
 font-family: cursive; righteous;
  font-weight: bold;
