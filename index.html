@@ -171,7 +171,23 @@
   </script>
 </body>
    </section>
-  <section>
+ <section>
+   <script>
+  paypal.Buttons({
+    createOrder: function(data, actions) {
+      // This function sets up the details of the transaction, including the amount and line item details.
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: '0.01'
+          }
+        }]
+      });
+    }
+  }).render('#paypal-button-container');
+</script>
+   </section>
+   <section>
    <h3 style="color: rgb(30, 132, 127);">&copy;2020 Benevolent Woman</h3> 
    </section> 
     </footer>
