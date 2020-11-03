@@ -169,19 +169,17 @@
   </nav>
   </section>
   <section>
- <!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Ensures optimal rendering on mobile devices. -->
+   <div>
+   <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Ensures optimal rendering on mobile devices. -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Optimal Internet Explorer compatibility -->
-  </head>
+   </div>
 
-  <body>
+  <div>
     <script src="https://www.paypal.com/sdk/js?client-id=YOUR_SB_CLIENT_ID"> // Replace YOUR_SB_CLIENT_ID with your sandbox client ID
     </script>
-
+   </div>
     <div id="paypal-button-container"></div>
-
+<div>
     <!-- Add the checkout buttons, set up the order and approve the order -->
     <script>
       paypal.Buttons({
@@ -201,8 +199,7 @@
         }
       }).render('#paypal-button-container'); // Display payment options on your web page
     </script>
-  </body>
-</html>
+   </div>
  </section>
  <section>
    <h3 style="color: rgb(30, 132, 127);">&copy;2020 Benevolent Woman</h3> 
