@@ -168,6 +168,31 @@
     </p>
   </nav>
  </section>
+ <section>
+var FUNDING_SOURCES = [
+    paypal.FUNDING.PAYPAL,
+    paypal.FUNDING.VENMO,
+    paypal.FUNDING.PAYLATER,
+    paypal.FUNDING.CREDIT,
+    paypal.FUNDING.CARD
+];
+
+// Loop over each funding source/payment method
+FUNDING_SOURCES.forEach(function(fundingSource) {
+
+    // Initialize the buttons
+    var button = paypal.Buttons({
+        fundingSource: fundingSource
+    });
+
+    // Check if the button is eligible
+    if (button.isEligible()) {
+
+        // Render the standalone button for that funding source
+        button.render('#paypal-button-container');
+    }
+});
+ </section>
      <section>
    <h3 style="color: rgb(30, 132, 127);">&copy;2020 Benevolent Woman</h3> 
    </footer>
