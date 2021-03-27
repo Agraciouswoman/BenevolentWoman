@@ -32,7 +32,7 @@ text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
 text-color: #000;
-background-color: rgba(124, 252, 0, 0.5);
+background-image: linear-gradient(#ff9a9e → #fad0c4);
 }  
  
 p {
