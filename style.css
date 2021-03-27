@@ -26,7 +26,13 @@ font-family: cursive, righteous;
 font-weight: bold;
 text-color: rgba(30, 132, 127, .25);
 }
- 
+
+.header nav {
+background-color: #FFB6C1;
+display: inline-block;
+padding: 20px;
+}
+
 main {
 text-align: left;
 font-family: cursive, righteous;
