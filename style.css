@@ -7,7 +7,6 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
-background-color: #FFB6C1;
 }
 
 #main-heading {
@@ -33,7 +32,7 @@ text-align: left;
 font-family: cursive, righteous;
 font-weight: bold;
 text-color: #000;
-background-color: #F7F9F9;
+background-color: #FFB6C1;
 }  
  
 p {
